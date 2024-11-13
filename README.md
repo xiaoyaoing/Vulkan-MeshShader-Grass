@@ -9,7 +9,7 @@ No Level of Detail
 Level of Detail
 ![lod.png](lod.png)
 
-
+WindEffect
 ![grass_no_lod.gif](grass_no_lod.gif)
 
 
